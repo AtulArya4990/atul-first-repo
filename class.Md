@@ -1,3 +1,3 @@
 Atul
 Uttar Pradesh
-Create a Repository Using Forking
+Create a Repository Using Fork
